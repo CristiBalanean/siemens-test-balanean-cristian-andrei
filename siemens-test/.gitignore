@@ -1,0 +1,5 @@
+Problem2/bin/
+Problem2/obj/
+*.user
+.vs/
+*.slnx
